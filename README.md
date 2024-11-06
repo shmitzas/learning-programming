@@ -1,2 +1,4 @@
-# learning-programming
-This repository is a collection of learning material for complete newbies (people that are new to programming, or know little about it ;)
+# Learning Programming
+Pavyzdinė medžiaga programavimo mokinimosi kursams naujokams (tiem kurie arba niekada neprogramavo, arba tiem kurie ne daug žino)
+
+## [CounterStrike2 Pluginai](https://github.com/shmitzas/learning-programming/tree/main/cs2)
